@@ -381,4 +381,4 @@ if __name__ ==  '__main__':
     plt.title('Scatter plot')
     # plt.legend(loc='lower right')
     # plt.show()  
-    plt.savefig('./bcnn.png') # -----(2)
+    plt.savefig('/vc_data/users/t-zilongwang/bcnn.png') # -----(2)
